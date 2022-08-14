@@ -1,12 +1,34 @@
-# Hue Helper
+<h1 align="center">Hue Helper</h1>
 
-Hue Helper is an augmented reality (AR) application that interacts with a user's view of the real world in order to provide two main features:
+<p align="center">
+  <a href="https://github.com/AlanoPeirce/Hue_Helper#color-correction">Color correction</a> • 
+  <a href="https://github.com/AlanoPeirce/Hue_Helper#color-blind-simulations">Color-blind simulations</a> • 
+  <a href="https://github.com/AlanoPeirce/Hue_Helper#technologies-used">Technologies used</a> • 
+  <a href="https://github.com/AlanoPeirce/Hue_Helper#acknowledgements">Acknowledgements</a>
+</p>
+
+&nbsp;
+
+[Hue Helper](https://devpost.com/software/a-ja3nou) is an augmented reality (AR) application that interacts with a user's view of the real world in order to provide two main features:
   1. Color correction for those who are color blind, and 
   2. Color-blind simulations for those with typical color vision
 
-**Insert GIF here**
+&nbsp;
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/110432500/184529737-4570330b-9218-4f81-bef9-761fb2c3b281.gif" alt="GIF of Hue Helper demonstration" />
+</p>
+
+&nbsp;
 
 [Click here to learn more about this project!](https://devpost.com/software/a-ja3nou)
+
+## Table of Contents
+
+* [Color correction](#color-correction)
+* [Color-blind simulations](#color-blind-simulations)
+* [Technologies used](#technologies-used)
+* [Acknowledgements](#acknowledgements)
 
 ## Color correction
 
