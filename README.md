@@ -12,13 +12,15 @@
 [Hue Helper](https://devpost.com/software/a-ja3nou) is an augmented reality (AR) application that interacts with a user's view of the real world in order to provide two main features:
   1. Color correction for those who are color blind, and 
   2. Color-blind simulations for those with typical color vision
-  
-  [Click here to learn more about this project!](https://devpost.com/software/a-ja3nou)
 
 &nbsp;
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/110432500/184529737-4570330b-9218-4f81-bef9-761fb2c3b281.gif" alt="GIF of Hue Helper demonstration" />
+</p>
+
+<p align="center">
+  <a href="https://devpost.com/software/a-ja3nou">Click here to learn more about this project!</a>
 </p>
 
 &nbsp;
