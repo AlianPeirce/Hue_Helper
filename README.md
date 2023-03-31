@@ -53,5 +53,5 @@ These simulations allow those with normal color vision to experience color blind
 
 ## Acknowledgements
 
-* [Alano Peirce]() created all of the color lookup tables and performed the associated mathematical calculations necessary for converting between color spaces.
+* [Alian Peirce]() created all of the color lookup tables and performed the associated mathematical calculations necessary for converting between color spaces.
 * [Saori Hunziker](https://devpost.com/pinkokinawa84) developed the user interface and linked it to the back end of the application (a.k.a. the color lookup tables).
